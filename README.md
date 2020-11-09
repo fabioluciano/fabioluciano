@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioluciano&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ![My stats](https://github-readme-stats.vercel.app/api?username=fabioluciano&show_icons=true)
 
 <!--

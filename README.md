@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fabioluciano)](https://github.com/anuraghazra/github-readme-stats)
+
 ![My stats](https://github-readme-stats.vercel.app/api?username=fabioluciano&show_icons=true)
 
 <!--

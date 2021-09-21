@@ -14,4 +14,4 @@ jobs:
       - name: Pull blog posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://blog.fabioluciano.dev/index.xml"
+          feed_list: "https://fabioluciano.dev/index.xml"

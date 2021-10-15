@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Pull blog posts
-        uses: gautamkrishnar/blog-post-workflow@master
+      - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed_list: "https://fabioluciano.dev/index.xml"
+          feed-url: https://fabioluciano.dev/index.xml
+          readme-section: feed

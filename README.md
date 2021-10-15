@@ -22,11 +22,8 @@
 
 
 # Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Pipelines com o Tekton - Instalação](https://blog.fabioluciano.dev/post/pipelines-com-o-tekton-instalacao/)
-- [Pipelines com o Tekton - Introdução](https://blog.fabioluciano.dev/post/pipelines-com-o-tekton-introducao/)
-- [Instalando o virtualbox 5.1 no ubuntu](https://blog.fabioluciano.dev/post/instalando-o-virtualbox-5.1-no-ubuntu/)
-<!-- BLOG-POST-LIST:END -->
+<!--START_SECTION:feed-->
+<!--END_SECTION:feed--
 
 
 # Badges

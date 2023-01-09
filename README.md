@@ -23,6 +23,7 @@
 
 # Blog posts
 <!--START_SECTION:feed-->
+* [Bom dia time! Como estamos?](https:&#x2F;&#x2F;fabioluciano.dev&#x2F;posts&#x2F;bom-dia-time-como-estamos&#x2F;)
 * [Pipelines com o Tekton - Instalação](https:&#x2F;&#x2F;fabioluciano.dev&#x2F;posts&#x2F;tekton-instalation&#x2F;)
 * [Pipelines com o Tekton - Introdução](https:&#x2F;&#x2F;fabioluciano.dev&#x2F;posts&#x2F;tekton-introduction&#x2F;)
 * [Instalando o virtualbox 5.1 no ubuntu](https:&#x2F;&#x2F;fabioluciano.dev&#x2F;posts&#x2F;20170622-instalando-o-virtualbox-no-ubuntu&#x2F;)

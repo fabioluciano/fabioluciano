@@ -1,78 +1,52 @@
-![CSS3](./header.png)
+# 👨‍💻 Fábio Luciano Nogueira de Góis
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Where to find me
-![Instagram](https://img.shields.io/badge/fabioluciano-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Twitter](https://img.shields.io/badge/fabioluciano-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+![Fábio Luciano Nogueira de Góis](./header.png)
 
 
-# Blog posts
-<!--START_SECTION:feed-->
-* [Bom dia time! Como estamos?](https:&#x2F;&#x2F;fabioluciano.dev&#x2F;posts&#x2F;bom-dia-time-como-estamos&#x2F;)
-* [Pipelines com o Tekton - Instalação](https:&#x2F;&#x2F;fabioluciano.dev&#x2F;posts&#x2F;tekton-instalation&#x2F;)
-* [Pipelines com o Tekton - Introdução](https:&#x2F;&#x2F;fabioluciano.dev&#x2F;posts&#x2F;tekton-introduction&#x2F;)
-* [Instalando o virtualbox 5.1 no ubuntu](https:&#x2F;&#x2F;fabioluciano.dev&#x2F;posts&#x2F;20170622-instalando-o-virtualbox-no-ubuntu&#x2F;)
-* [](https:&#x2F;&#x2F;fabioluciano.dev&#x2F;about&#x2F;)
-<!--END_SECTION:feed-->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fabioluciano)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/fabioluciano)
+[![Blog](https://img.shields.io/badge/Blog-OpenSource-blueviolet)](https://log.fabioluciano.dev)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram)](https://t.me/fabioluciano)
 
+Sou Arquiteto de Soluções, Tech Lead e entusiasta de software livre com mais de 10 anos de experiência em **DevOps**, **Cloud Computing** e **Developer Experience**. Tenho paixão por construir ferramentas, plataformas e esteiras que empoderam times de desenvolvimento — reduzindo toil, aumentando a produtividade e melhorando a experiência do desenvolvedor como um todo.
 
-# Badges
+Atualmente, pesquiso e atuo fortemente em temas como **DX Platforms**, **Internal Developer Portals**, **ferramentas de CLI**, pipelines customizados com **Tekton**, e estratégias para integração e entrega contínua com foco em escalabilidade e usabilidade.
 
-## Languages
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+## 🛠️ Habilidades principais
 
-## Frameworks
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Material UI](https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white)
-![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
+- **Developer Experience:** Integração de ferramentas, automação de ambientes, plataformas internas, CLI tooling, GitOps, documentação e onboarding para devs
+- **Cloud & IaC:** AWS, Azure, GCP, Terraform, CloudFormation, Ansible
+- **DevOps & CI/CD:** Jenkins, Tekton, Harness, GitLab CI, Spinnaker, ArgoCD
+- **Container & Orquestração:** Docker, Kubernetes (CKA/CKAD/CKS), Helm, CRI-O, containerd
+- **Observabilidade:** Prometheus, Grafana, Elastic Stack, AWS CloudWatch
+- **Linguagens:** Python, Java, PHP, Shell Script, Go, Rust, JavaScript/TypeScript
 
-## Editors
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## 🔐 Certificações
 
-## Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+- 🛰️ **Kubestronaut** – CNCF (11/2024 - 11/2026)  
+- 🛡️ **Certified Kubernetes Security Specialist (CKS)** – CNCF (11/2024 - 11/2026)  
+- ⚙️ **Certified Kubernetes Administrator (CKA)** – CNCF (10/2024 - 10/2026)  
+- 🧩 **Certified Kubernetes Application Developer (CKAD)** – CNCF (09/2024 - 09/2026)  
+- 🔒 **Kubernetes and Cloud Native Security Associate** – CNCF (11/2024 - 11/2026)  
+- ☁️ **Kubernetes and Cloud Native Associate** – CNCF (10/2024 - 10/2026)  
+- 🏗️ **AWS Certified Solutions Architect – Associate** – AWS (10/2018 - 10/2023)  
+- ☁️ **AWS Certified Cloud Practitioner** – AWS (09/2018 - 09/2020)  
+- 🔧 **LPIC-OT DevOps Tools Engineer** – LPI (09/2018 - 09/2023)  
+- 🐧 **LPIC-1 (Linux Professional Institute Certified – Level 1)** – LPI (desde 03/2012)  
+- 🐘 **Zend Certified PHP Engineer** – Zend Technologies (desde 02/2016)
 
-## Cloud Providers
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
+## 🚀 Projetos em destaque
 
-![My stats](https://github-readme-stats.vercel.app/api?username=fabioluciano&show_icons=true)
+- [**Como me tornar um Kubestronaut**](https://k8s.fabioluciano.dev) – Apresentação técnica com humor e acessibilidade
+- [**Integr8**](https://integr8.me) – Implantação de esteiras CI/CD open source
+- [**Inputs**](https://inputs.fabioluciano.dev) – Divulgação de eletrônicos (keyboards e switches)
+- [**Containers para pessoas ansiosas**](https://fabioluciano.github.io/containers-for-anxious-people) – Apresentação técnica com humor e acessibilidade
+
+## 📢 Palestras & Comunidade
+
+Já palestrei em eventos sobre **GraphQL**, **VueJS**, **CI/CD**, **Containers**, **Kubernetes** e **Developer Experience**. Acredito que compartilhar conhecimento é parte essencial da jornada de quem constrói software de forma séria, escalável e com foco em usabilidade para devs.
+
+---
+
+📫 **Entre em contato:** [fabio@naoimporta.com](mailto:fabio@naoimporta.com)  
+🌐 **Mais em:** [fabioluciano.dev](https://fabioluciano.dev)

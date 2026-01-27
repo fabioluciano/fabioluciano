@@ -1,106 +1,81 @@
-[🇧🇷 Português](README.md) | [🇺🇸 English](README.en.md)
+[🇧🇷 Português](README.pt-br.md) | 🇺🇸 English
 
 # Fábio Luciano
-Solutions Architect and Platform Engineer, passionate about optimizing developer experience and building resilient infrastructures.
+Cloud Solutions Architect passionate about optimization and developer experience.
 
-[![Location](https://img.shields.io/badge/Location-Brasília%2C%20Brazil-blue?style=flat-square&logo=map)](https://www.google.com/maps/place/Brasília)
-[![Email](https://img.shields.io/badge/Email-me%40fabioluciano.com-D14836?style=flat-square&logo=gmail)](mailto:me@fabioluciano.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-fabioluciano-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/fabioluciano)
-[![Twitter/X](https://img.shields.io/badge/Twitter/X-fabioluciano-1DA1F2?style=flat-square&logo=x)](https://twitter.com/fabioluciano)
-[![Website](https://img.shields.io/badge/Website-fabioluciano.com-informational?style=flat-square&logo=github)](https://fabioluciano.com)
+[![Location](https://img.shields.io/badge/Location-Brasília%2C%20Brazil-blue?style=flat-square&logo=mapir)](https://www.google.com/maps/place/Brasília)
+[![GitHub Followers](https://img.shields.io/github/followers/fabioluciano?style=flat-square&label=Followers&logo=github)](https://github.com/fabioluciano?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fábio%20Luciano-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/fabioluciano)
+[![Blog](https://img.shields.io/badge/Blog-fabioluciano.com-orange?style=flat-square&logo=rss)](https://fabioluciano.com)
 
 ## 👋 About Me
-Hello! I'm Fábio Luciano, a Solutions Architect and Platform Engineer with a passion for transforming complex challenges into efficient and scalable solutions. My professional journey is driven by a constant pursuit of excellence in **Cloud Architecture & FinOps**, **Developer Experience (DevEx)**, **Modern DevOps & CI/CD**, **DevSecOps & Security**, **Platform Engineering (IDP)**, **Software Engineering**, **Kubernetes & Containers**, and **Observability & SRE**.
+Fábio Luciano is a Cloud Solutions Architect with a career focused on building robust, efficient, and scalable infrastructures. With a strategic vision, he is dedicated to optimizing the developer experience (DevEx), ensuring that teams can deliver value quickly and securely. His expertise spans orchestrating environments with Kubernetes & Containers, implementing modern DevOps & CI/CD, and securing systems through DevSecOps & Security.
 
-With extensive experience across various technology domains, I specialize in architecting robust systems and optimizing the software development lifecycle. I am a Go and Rust enthusiast, with deep expertise in container orchestration using Kubernetes and building resilient cloud infrastructures. My curiosity leads me to constantly explore new tools and approaches, always focusing on security, automation, and performance.
+Beyond his proficiency in Software Engineering and Platform Engineering (IDP), Fábio is a FinOps enthusiast, constantly seeking ways to maximize cloud value while minimizing costs. His passion for Observability & SRE reflects his commitment to maintaining resilient and high-performing systems, always with a focus on business outcomes.
 
-I maintain an active portfolio of 44 personal repositories and an impressive collection of over 3000 stars on open-source projects, reflecting my commitment to the community and my appetite for continuous learning. I am a strong advocate for a culture of collaboration and platform engineering as a key to unlocking productivity and innovation.
+With an exploratory profile, evidenced by over 2800 "starred" repositories and a vast range of topics investigated, Fábio demonstrates a continuous interest in staying up-to-date and exploring the frontiers of technology, especially in languages like Go and Rust, and in areas such as security and command-line tools.
 
 ## 🎯 Current Focus & Interests
-Currently, I am dedicated to deepening and applying my knowledge in the following strategic areas:
-
-*   ☁️ **Cloud Architecture & FinOps**: Designing scalable, resilient, and cost-optimized cloud infrastructures, with a focus on providers like AWS and GCP.
-*   👨‍💻 **Developer Experience (DevEx)**: Creating tools, platforms, and processes that empower developers to deliver value faster and more enjoyably.
-*   🔄 **Modern DevOps & CI/CD**: Implementing automation, continuous integration, and continuous delivery practices to accelerate the software lifecycle and ensure quality.
-*   🔐 **DevSecOps & Security**: Integrating security into all stages of the development pipeline, from design to operation, with a focus on security as code and system hardening.
-*   🏗️ **Platform Engineering (IDP)**: Building and maintaining Internal Developer Platforms (IDPs) that abstract infrastructure complexity and provide self-service tools.
-*   ⚙️ **Software Engineering**: Developing high-quality, performant, and maintainable software, utilizing robust design principles and architectural patterns.
-*   ☸️ **Kubernetes & Containers**: Orchestrating containers and managing Kubernetes clusters in production environments, optimizing performance and resilience.
-*   📊 **Observability & SRE**: Implementing monitoring, logging, and tracing solutions to ensure system health and performance, and applying Site Reliability Engineering principles.
+*   ☁️ **Cloud Architecture & FinOps**: Designing scalable infrastructures and optimizing costs in cloud environments, ensuring efficiency and financial governance.
+*   👨‍💻 **Developer Experience (DevEx)**: Creating tools and processes that simplify developers' workflows, increasing productivity and satisfaction.
+*   🔄 **Modern DevOps & CI/CD**: Implementing robust, automated, and efficient continuous integration and continuous delivery pipelines to accelerate the software development lifecycle.
+*   🔐 **DevSecOps & Security**: Integrating security practices into all phases of the development cycle, from design to operation, to build systems resilient to threats.
+*   🏗️ **Platform Engineering (IDP)**: Developing and maintaining internal platforms that empower development teams, abstracting infrastructure complexity.
+*   ⚙️ **Software Engineering**: Applying principles and patterns to build high-quality, performant, and easily maintainable software solutions.
+*   ☸️ **Kubernetes & Containers**: Orchestrating large-scale applications with Kubernetes and utilizing containers to ensure portability and consistency across various environments.
+*   📊 **Observability & SRE**: Implementing monitoring, logging, and tracing solutions to gain deep insights into system behavior and ensure their reliability.
 
 ## 🚀 Projects in Development
-Even with lighter public commit activity recently, my involvement with the community and tool development remains active through contributions and exploration of new ideas:
-
-*   **[tmux-powerkit](https://github.com/fabioluciano/tmux-powerkit)**: A robust framework for `tmux` status bars, boasting 449 stars. It showcases my expertise in shell automation and optimizing developer experience in terminal environments.
-*   **[fabioluciano/github-profile-analyzer](https://github.com/fabioluciano/github-profile-analyzer)**: A personal Python tool for analyzing GitHub profiles, reflecting my interest in data, automation, and enhancing developer tooling.
-*   **Contributing to integr8/integr8.me**: Actively involved in Pull Requests and discussions in external projects, such as `integr8/integr8.me`, demonstrating my commitment to open-source collaboration.
-*   **[fabioluciano/fabioluciano.com](https://github.com/fabioluciano/fabioluciano.com)**: My personal website, built with Astro, serving as a hub for my projects, publications, and thoughts.
+While recent public activity in terms of commits is light, Fábio demonstrates an intense interest in exploring new tools and technologies, with a notable focus on:
+*   **Cloud Cost Optimization:** Investigating solutions like `aws-doctor` (Go) to diagnose and optimize AWS spending, reflecting his FinOps expertise.
+*   **Developer Productivity Tools:** Exploring TUIs (Text User Interfaces) for Git (`keifu` in Rust) and application management (`xdgctl` in C), aiming to enhance the developer experience in the terminal.
+*   **Networking and Distributed Systems:** Following projects like `Reticulum` (Python), which explores cryptography-based networks, and `psc` (Go), a `ps` utility with eBPF and container context, indicating an interest in low-level systems and networking.
 
 ## 🌱 Currently Learning
-My curiosity constantly drives me to explore new technologies and concepts. Recently, my interests have gravitated towards:
-
-*   **Rust for Systems and Tools**: Delving deeper into Rust for asynchronous embedded systems development (`embassy-rs/embassy`) and crafting efficient CLI and TUI tools, as explored in `keifu` and `bichon`.
-*   **eBPF and Linux System Programming**: Investigating the use of eBPF for system observability and security in Go (`loresuso/psc`), alongside revisiting Linux system programming in C (`stewartweiss/intro-linux-sys-prog`).
-*   **AI Agents for Development**: Exploring the application of artificial intelligence agents and multi-agent orchestration to optimize code workflows, as seen in `1code`, `openwork`, and `oh-my-claudecode`.
-*   **DevSecOps and System Hardening**: Focusing on advanced hardening strategies for Linux systems and services like SSH and Nginx, utilizing tools such as `ansible-collection-hardening`.
-*   **Cross-Platform Development with Tauri**: Experimenting with Tauri v2 to build native desktop applications with web interfaces, as exemplified by `Handy`.
+The vast collection of starred repositories and emerging topics indicates continuous learning, with a focus on:
+*   **Rust and Go for System Tools:** Deepening expertise in high-performance languages for building command-line utilities, system tools, and infrastructure.
+*   **Platform Engineering and DevEx:** Exploring the creation of internal platforms and tools that improve the developer experience, such as user interfaces for AI (`1code`, `openwork` in TypeScript).
+*   **Security and System Protection:** With "protection" emerging as a topic, there's a clear interest in strengthening the security and resilience of environments and applications.
+*   **Automation and Optimization:** Seeking new approaches to automate complex tasks and optimize resource utilization, both in the cloud and in development workflows.
 
 ## 💼 Experience & Tech Stack
-My experience spans a wide range of technologies and tools, with a particular focus on building and operating scalable and secure systems.
 
 #### Programming Languages
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnubash&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-#### Cloud & FinOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Pulumi](https://img.shields.io/badge/Pulumi-852654?style=flat-square&logo=pulumi&logoColor=white)
+#### Cloud & Orchestration
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-#### DevOps & CI/CD
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-![Argo CD](https://img.shields.io/badge/ArgoCD-EE7000?style=flat-square&logo=argo-cd&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-267BFF?style=flat-square&logo=github-actions&logoColor=white)
-
-#### Observability & SRE
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
-![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
-
-#### Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+#### Tools & Practices
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-121011?style=for-the-badge&logo=devops&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Terminal](https://img.shields.io/badge/Terminal-black?style=for-the-badge&logo=gnome-terminal&logoColor=white)
+![Observability](https://img.shields.io/badge/Observability-gray?style=for-the-badge&logo=grafana&logoColor=white)
 
 ## 🤝 Contributions & Collaboration
-I believe in the power of collaboration and open source to drive innovation. My recent activity includes creating **10 Pull Requests** and reviewing **1 Pull Request**, in addition to **11 comments on issues** across various repositories. Notably, I've made active contributions to the **integr8/integr8.me** project, demonstrating my engagement in community projects.
+Fábio values collaboration and shared knowledge. While his direct contribution activity to public repositories may vary, he remains actively engaged with the community by exploring and "starring" innovative projects, indicating a strong interest in discovering and supporting the open-source ecosystem.
 
-I am always open to new ideas and collaborations. If you have an interesting project or an idea to discuss, feel free to reach out or open an issue/PR on one of my repositories.
+Feel free to reach out for discussions on architecture, DevOps, Kubernetes, or to explore new ideas.
 
 ## 📝 Latest Blog Posts
-I share my experiences and knowledge through technical articles on my blog:
-
-*   [Automating what shouldn't require effort: the resume as an engineering exercise](https://fabioluciano.com/automatizando-curriculo-toil-engenharia/) - Mon, Jan 12, 2026
-*   [Helm 4](https://fabioluciano.com/helm-4/) - Thu, Nov 13, 2025
-*   [Authentication in Kubernetes - Kubeconfig](https://fabioluciano.com/autenticacao-no-kubernetes-kubeconfig/) - Tue, Nov 04, 2025
-*   [Kubernetes Certification Study Guide – How I became a Kubestronaut](https://fabioluciano.com/guia-de-estudos-para-certificacoes-kubernetes-como-me-tornei-um-kubestronaut/) - Fri, Oct 31, 2025
-*   [What happens when you run kubectl apply?](https://fabioluciano.com/o-que-acontece-quando-voce-executa-kubectl-apply/) - Fri, Oct 31, 2025
-
-Check out more at: [fabioluciano.com/blog](https://fabioluciano.com/blog)
+*   [Automating what shouldn't require effort: the resume as an engineering exercise](https://fabioluciano.com/automatizando-curriculo-toil-engenharia/) - Jan 12, 2026
+*   [Helm 4](https://fabioluciano.com/helm-4/) - Nov 13, 2025
+*   [Kubernetes Authentication - Kubeconfig](https://fabioluciano.com/autenticacao-no-kubernetes-kubeconfig/) - Nov 04, 2025
+*   [Study Guide for Kubernetes Certifications – How I Became a Kubestronaut](https://fabioluciano.com/guia-de-estudos-para-certificacoes-kubernetes-como-me-tornei-um-kubestronaut/) - Oct 31, 2025
+*   [What happens when you run kubectl apply?](https://fabioluciano.com/o-que-acontece-quando-voce-executa-kubectl-apply/) - Oct 31, 2025
+*   [View all blog posts](https://fabioluciano.com/blog)
 
 ## 📫 How to Reach Me
 *   **GitHub**: [@fabioluciano](https://github.com/fabioluciano)
 *   **Email**: [me@fabioluciano.com](mailto:me@fabioluciano.com)
-*   **LinkedIn**: [fabioluciano](https://www.linkedin.com/in/fabioluciano)
+*   **LinkedIn**: [Fábio Luciano](https://www.linkedin.com/in/fabioluciano)
 *   **Twitter/X**: [@fabioluciano](https://twitter.com/fabioluciano)
-*   **Website/Blog**: [https://fabioluciano.com](https://fabioluciano.com)
+*   **Website/Blog**: [fabioluciano.com](https://fabioluciano.com)

@@ -1,94 +1,93 @@
-# Fábio Luciano
-Arquiteto de Soluções e Engenheiro de Plataforma, apaixonado por otimizar a experiência do desenvolvedor e construir sistemas resilientes e escaláveis.
-
 [🇧🇷 Português](README.md) | [🇺🇸 English](README.en.md)
 
-[![Localização](https://img.shields.io/badge/Localização-Brasília,%20Brazil-blue?style=flat-square&logo=google-maps)](https://www.google.com/maps/place/Brasília)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fábio%20Luciano-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/fabioluciano/)
+# Fábio Luciano
+Arquiteto de Soluções, Engenheiro de Plataforma e Entusiasta de DevOps
+
+[![Localização](https://img.shields.io/badge/Localização-Brasília%2C%20Brazil-blue?style=flat-square&logo=google-maps)](https://www.google.com/maps/place/Bras%C3%ADlia)
+[![GitHub](https://img.shields.io/badge/GitHub-fabioluciano-181717?style=flat-square&logo=github)](https://github.com/fabioluciano)
+[![Email](https://img.shields.io/badge/Email-me%40fabioluciano.com-D14836?style=flat-square&logo=gmail)](mailto:me@fabioluciano.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fabioluciano-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/fabioluciano)
 [![Twitter/X](https://img.shields.io/badge/Twitter/X-fabioluciano-1DA1F2?style=flat-square&logo=x)](https://twitter.com/fabioluciano)
-[![Website](https://img.shields.io/badge/Website-fabioluciano.com-orange?style=flat-square&logo=internet-explorer)](https://fabioluciano.com)
-[![Email](https://img.shields.io/badge/Email-me@fabioluciano.com-D14836?style=flat-square&logo=gmail)](mailto:me@fabioluciano.com)
+[![Website](https://img.shields.io/badge/Website-fabioluciano.com-orange?style=flat-square&logo=linktree)](https://fabioluciano.com)
 
 ## 👋 Sobre Mim
-Olá! Sou Fábio Luciano, um Arquiteto de Soluções e Engenheiro de Plataforma com base em Brasília, Brasil. Minha jornada profissional é impulsionada pela paixão em desenhar e implementar infraestruturas robustas, escaláveis e seguras, sempre com um olhar atento à experiência do desenvolvedor. Sou um defensor incansável de práticas como **Arquitetura Cloud & FinOps**, **DevOps & CI/CD Moderno**, e **Engenharia de Plataforma (IDP)**, buscando constantemente a automação e a eficiência.
+Olá! Sou Fábio Luciano, um Arquiteto de Soluções e Engenheiro de Plataforma baseado em Brasília, Brasil. Com uma paixão por construir sistemas robustos e otimizados, minha jornada profissional é impulsionada pela busca contínua por inovação e excelência em engenharia de software.
 
-Com uma sólida experiência em **Engenharia de Software** e profundo conhecimento em **Kubernetes & Containers**, dedico-me a criar ambientes que capacitam equipes a entregar valor de forma rápida e segura. Minha expertise se estende à **Developer Experience (DevEx)**, onde busco simplificar fluxos de trabalho, e a **DevSecOps & Segurança**, garantindo que a segurança seja uma preocupação desde o design. Além disso, a **Observabilidade & SRE** são pilares fundamentais na minha abordagem para manter sistemas performáticos e confiáveis.
+Minha expertise abrange profundamente a **Arquitetura Cloud & FinOps**, onde projeto e otimizo infraestruturas em nuvem para máxima eficiência e custo-benefício. Sou um defensor incansável da **Developer Experience (DevEx)**, focado em criar ambientes que capacitem desenvolvedores a serem mais produtivos e felizes. Domino o **DevOps & CI/CD Moderno**, implementando pipelines automatizados que garantem entregas rápidas e seguras. Além disso, integro a **DevSecOps & Segurança** em todo o ciclo de vida do desenvolvimento, assegurando que a segurança seja um pilar fundamental.
 
-Sou o mantenedor do popular projeto open source `tmux-powerkit`, uma prova do meu compromisso com ferramentas que aprimoram a produtividade. Embora minha atividade de commits públicos possa variar, estou sempre explorando novas tecnologias, contribuindo com revisões de código e desenvolvendo soluções internamente. Minhas principais linguagens de trabalho incluem Go, Rust, TypeScript e Python, com um forte foco em sistemas distribuídos e ferramentas de linha de comando.
+Sou um especialista em **Engenharia de Plataforma (IDP)**, construindo as bases para que outras equipes prosperem. Minha experiência em **Engenharia de Software** me permite desenvolver soluções escaláveis e de alta performance. Tenho um conhecimento aprofundado em **Kubernetes & Containers**, orquestrando aplicações em ambientes distribuídos, e sou um entusiasta da **Observabilidade & SRE**, garantindo a resiliência e o monitoramento proativo de sistemas. Sou também um mantenedor ativo de projetos open source, como o `tmux-powerkit`, e estou sempre explorando novas tecnologias e paradigmas para aprimorar minhas habilidades e contribuir para a comunidade.
 
 ## 🎯 Foco Atual & Interesses
-Atualmente, meus interesses e foco profissional estão concentrados em:
+Atualmente, meu foco e paixão estão direcionados para as seguintes áreas, onde busco aprofundar meu conhecimento e aplicar soluções inovadoras:
 
-*   ☁️ **Arquitetura Cloud & FinOps**: Projetando infraestruturas resilientes e otimizadas para custo em nuvens públicas, com ênfase em governança e eficiência financeira.
-*   👨‍💻 **Developer Experience (DevEx)**: Criando ferramentas, plataformas e fluxos de trabalho que tornam a vida dos desenvolvedores mais fácil, produtiva e prazerosa.
-*   🔄 **DevOps & CI/CD Moderno**: Implementando pipelines de integração e entrega contínuas que automatizam processos, garantindo agilidade e qualidade no ciclo de vida do software.
-*   🔐 **DevSecOps & Segurança**: Integrando práticas de segurança em todas as fases do desenvolvimento e operação, desde a concepção até a produção, para proteger sistemas e dados.
-*   🏗️ **Engenharia de Plataforma (IDP)**: Construindo plataformas internas de desenvolvedor que abstraem a complexidade da infraestrutura, permitindo que as equipes se concentrem na lógica de negócio.
-*   ⚙️ **Engenharia de Software**: Desenvolvendo software robusto, escalável e de alta performance, utilizando as melhores práticas de design e arquitetura.
-*   ☸️ **Kubernetes & Containers**: Orquestrando e gerenciando aplicações em ambientes conteinerizados, aproveitando o poder do Kubernetes para escalabilidade e resiliência.
-*   📊 **Observabilidade & SRE**: Implementando soluções de monitoramento, logging e tracing para garantir a visibilidade completa dos sistemas e a confiabilidade das operações.
+*   ☁️ **Arquitetura Cloud & FinOps**: Projetando infraestruturas em nuvem resilientes, escaláveis e otimizadas para custo, com foco em governança e eficiência financeira.
+*   👨‍💻 **Developer Experience (DevEx)**: Criando ferramentas, processos e plataformas que simplificam o fluxo de trabalho dos desenvolvedores, aumentando a produtividade e a satisfação.
+*   🔄 **DevOps & CI/CD Moderno**: Implementando e refinando pipelines de integração contínua e entrega contínua para automação, velocidade e confiabilidade.
+*   🔐 **DevSecOps & Segurança**: Integrando práticas de segurança desde o design até a operação, garantindo que a segurança seja uma preocupação intrínseca em cada etapa.
+*   🏗️ **Engenharia de Plataforma (IDP)**: Desenvolvendo e mantendo plataformas internas de desenvolvedor que abstraem a complexidade da infraestrutura, permitindo que as equipes de produto inovem mais rapidamente.
+*   ⚙️ **Engenharia de Software**: Projetando e implementando sistemas de software de alta qualidade, focando em padrões de design, escalabilidade e manutenibilidade.
+*   ☸️ **Kubernetes & Containers**: Orquestrando e gerenciando aplicações conteinerizadas em larga escala, explorando as capacidades avançadas do ecossistema Kubernetes.
+*   📊 **Observabilidade & SRE**: Construindo e mantendo sistemas com alta observabilidade (logs, métricas, traces) e aplicando princípios de Site Reliability Engineering para garantir a confiabilidade e performance.
 
 ## 🚀 Projetos em Desenvolvimento
-Minha paixão por ferramentas e infraestrutura se reflete nos projetos que mantenho e exploro:
+Embora a atividade pública de commits seja leve no momento, estou ativamente envolvido na exploração e manutenção de diversos projetos. Minha paixão pelo desenvolvimento open source e pela construção de ferramentas úteis se reflete em:
 
-*   **[fabioluciano/tmux-powerkit](https://github.com/fabioluciano/tmux-powerkit)** (Shell): O framework definitivo para a barra de status do tmux. Um projeto open source com mais de 500 estrelas, focado em personalização e produtividade no terminal.
-*   **[fabioluciano/guides](https://github.com/fabioluciano/guides)** (TypeScript): Um repositório para centralizar guias, melhores práticas e recursos técnicos, refletindo meu compromisso em compartilhar conhecimento.
-*   **[fabioluciano/stack-services](https://github.com/fabioluciano/stack-services)** (HCL): Explorando e definindo infraestrutura como código para orquestração de serviços em ambientes cloud, com foco em automação e escalabilidade.
-*   **[fabioluciano/dot](https://github.com/fabioluciano/dot)** (Lua): Minhas configurações de dotfiles, incluindo personalizações para Neovim e outros utilitários de terminal, demonstrando meu interesse em otimização do ambiente de desenvolvimento.
+*   **[fabioluciano/tmux-powerkit](https://github.com/fabioluciano/tmux-powerkit)** (Shell): Um framework robusto para a barra de status do tmux, focado em personalização e produtividade. É um projeto com mais de 500 estrelas, demonstrando sua utilidade na comunidade.
+*   **[fabioluciano/dot](https://github.com/fabioluciano/dot)** (Lua): Minhas configurações pessoais de ambiente, explorando o ecossistema Neovim e a linguagem Lua para otimização do fluxo de trabalho.
+*   **[fabioluciano/stack-services](https://github.com/fabioluciano/stack-services)** (HCL): Repositórios focados em Infraestrutura como Código (IaC), utilizando HCL (HashiCorp Configuration Language) para gerenciar e provisionar serviços em nuvem de forma declarativa.
 
 ## 🌱 Aprendendo Agora
-Estou sempre em busca de novos conhecimentos e explorando as fronteiras da tecnologia. Atualmente, meus interesses de aprendizado incluem:
+Minha curiosidade me impulsiona a explorar constantemente novas tecnologias e aprimorar minhas habilidades. Nos últimos 30 dias, tenho me aprofundado em:
 
-*   🦀 **Ecossistema Rust**: Aprofundando em Rust para sistemas de alta performance, WebAssembly (com Sycamore), ferramentas de linha de comando e desenvolvimento de utilitários como resolvers DNS (numa) e profilers (samply).
-*   🚀 **Go para Ferramentas TUI e Processamento de Logs**: Explorando a criação de interfaces de usuário em terminal com Go (perfdeck) e sistemas de processamento de logs de baixo código (flowg).
-*   ✨ **Desenvolvimento de Plugins para Neovim**: Mergulhando no universo Lua para Neovim, com foco em plugins de exploração de arquivos (neo-tree.nvim) e autocompletions (blink.cmp) para otimizar o fluxo de trabalho do editor.
-*   🧠 **Zig para HPC e Machine Learning**: Investigando o potencial de Zig para aplicações de alto desempenho e sua integração com frameworks de Machine Learning (zml).
-*   📝 **CMS Modernos com TypeScript e Astro**: Explorando soluções de gerenciamento de conteúdo baseadas em TypeScript e Astro, como EmDash, para arquiteturas web modernas e escaláveis.
+*   **Rust & WebAssembly**: Explorando a performance e segurança do Rust, com interesse crescente em aplicações web reativas utilizando frameworks como Sycamore e o potencial do WebAssembly.
+*   **Inteligência Artificial & LLMs**: Acompanhando as inovações em sistemas de memória para IA (como `mempalace`) e modelos de linguagem, buscando entender suas aplicações práticas.
+*   **Ferramentas TUI & CLI em Go/Rust**: Investindo em ferramentas de linha de comando e interfaces de usuário em terminal (TUI) para monitoramento de performance (`perfdeck`) e profilagem (`samply`), aproveitando a eficiência de Go e Rust.
+*   **Ecossistema Neovim**: Aprofundando o uso de plugins e configurações avançadas com `nvim-treesitter` e `neo-tree.nvim` para otimizar meu ambiente de desenvolvimento.
+*   **Engenharia de Plataforma com TypeScript**: Explorando frameworks e CMSs full-stack como EmDash, que utilizam TypeScript, para a construção de plataformas robustas e modernas.
 
 ## 💼 Experiência & Stack Tecnológica
+Minha experiência e competência técnica são refletidas no uso de uma vasta gama de tecnologias e ferramentas.
 
 #### Linguagens de Programação
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev/)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/)
 
-#### Cloud & FinOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![FinOps](https://img.shields.io/badge/FinOps-006494?style=for-the-badge&logo=cloud&logoColor=white)
+#### Cloud & DevOps
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![DevOps](https://img.shields.io/badge/DevOps-000000?style=flat-square&logo=devops&logoColor=white)](https://aws.amazon.com/devops/)
+[![CI/CD](https://img.shields.io/badge/CI/CD-orange?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 
-#### DevOps & Plataforma
-![CI/CD](https://img.shields.io/badge/CI/CD-black?style=for-the-badge&logo=github-actions&logoColor=white)
-![Observabilidade](https://img.shields.io/badge/Observabilidade-blueviolet?style=for-the-badge&logo=grafana&logoColor=white)
-![SRE](https://img.shields.io/badge/SRE-purple?style=for-the-badge&logo=google&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Terminal](https://img.shields.io/badge/Terminal-black?style=for-the-badge&logo=gnome-terminal&logoColor=white)
-![TUI](https://img.shields.io/badge/TUI-gray?style=for-the-badge&logo=terminal&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+#### Ferramentas & Plataformas
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![Terminal](https://img.shields.io/badge/Terminal-000000?style=flat-square&logo=gnome-terminal&logoColor=white)](https://en.wikipedia.org/wiki/Terminal_emulator)
+[![TUI](https://img.shields.io/badge/TUI-000000?style=flat-square&logo=neovim&logoColor=white)](https://en.wikipedia.org/wiki/Text-based_user_interface)
+[![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)](https://neovim.io/)
 
-#### Segurança
-![DevSecOps](https://img.shields.io/badge/DevSecOps-orange?style=for-the-badge&logo=owasp&logoColor=white)
-
-#### Ferramentas & Ecossistemas
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![tmux](https://img.shields.io/badge/tmux-green?style=for-the-badge&logo=tmux&logoColor=white)
+#### Outras Habilidades
+[![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6600?style=flat-square&logo=openai&logoColor=white)](https://openai.com/)
+[![Security](https://img.shields.io/badge/Security-000000?style=flat-square&logo=snyk&logoColor=white)](https://snyk.io/)
+[![Observability](https://img.shields.io/badge/Observability-7C52B1?style=flat-square&logo=grafana&logoColor=white)](https://grafana.com/)
 
 ## 🤝 Contribuições & Colaboração
-Acredito fortemente no poder da colaboração e do conhecimento compartilhado. Nos últimos 30 dias, estive ativo criando 6 Pull Requests e revisando 1, além de comentar em 1 issue, demonstrando meu engajamento com a comunidade e projetos.
+Acredito no poder da comunidade e da colaboração. Nos últimos 30 dias, demonstrei meu engajamento com 6 Pull Requests criados e 1 revisado, contribuindo ativamente para projetos e aprimorando o código de outros desenvolvedores.
 
-Sou o mantenedor de projetos open source como o `tmux-powerkit` e estou sempre aberto a novas ideias e oportunidades de colaboração. Se você tem uma ideia, encontrou um bug ou quer discutir arquitetura e engenharia de plataforma, sinta-se à vontade para abrir uma issue ou entrar em contato!
+Estou sempre aberto a novas ideias e projetos interessantes. Se você tem uma ideia, precisa de ajuda ou gostaria de colaborar em um dos meus projetos, sinta-se à vontade para entrar em contato ou abrir uma issue/PR. Contribuições para o `tmux-powerkit` são sempre bem-vindas!
 
 ## 📝 Últimos Posts do Blog
-Ainda não há posts recentes no blog. Por favor, confira meu [website](https://fabioluciano.com) para futuras atualizações e artigos sobre tecnologia.
+Atualmente, não há posts recentes do blog disponíveis para listar.
 
 ## 📫 Como me Encontrar
-*   **GitHub**: [@fabioluciano](https://github.com/fabioluciano)
+Você pode me encontrar e se conectar comigo através das seguintes plataformas:
+
+*   **GitHub**: [fabioluciano](https://github.com/fabioluciano)
 *   **Email**: [me@fabioluciano.com](mailto:me@fabioluciano.com)
-*   **LinkedIn**: [fabioluciano](https://www.linkedin.com/in/fabioluciano/)
-*   **Twitter/X**: [@fabioluciano](https://twitter.com/fabioluciano)
-*   **Website/Blog**: [https://fabioluciano.com](https://fabioluciano.com)
+*   **LinkedIn**: [fabioluciano](https://www.linkedin.com/in/fabioluciano)
+*   **Twitter/X**: [fabioluciano](https://twitter.com/fabioluciano)
+*   **Website/Blog**: [fabioluciano.com](https://fabioluciano.com)

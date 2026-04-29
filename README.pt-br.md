@@ -8,7 +8,7 @@ I'm a developer with 3232 starred repositories and 43 personal projects.
 
 - 0 commits in the last 30 days
 - 5 pull requests created
-- 0 pull requests reviewed
+- 1 pull requests reviewed
 
 ## Technologies
 

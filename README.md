@@ -1,83 +1,81 @@
-🇧🇷 Português | [🇺🇸 English](README.en.md)
-
 # Fábio Luciano
-Arquiteto de Soluções Cloud & Engenheiro de Plataforma | Especialista em DevOps e Kubernetes
+Arquiteto de Soluções e Engenheiro de Plataforma, impulsionando a excelência em Cloud-Native e DevOps.
 
-[![Localização](https://img.shields.io/badge/Localização-Brasília%2C%20Brazil-blue?style=flat-square&logo=map-pin)](https://www.google.com/maps/place/Brasília)
-[![Email](https://img.shields.io/badge/Email-me%40fabioluciano.com-red?style=flat-square&logo=mail.ru)](mailto:me@fabioluciano.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-fabioluciano-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/fabioluciano)
-[![Twitter/X](https://img.shields.io/badge/Twitter/X-fabioluciano-1DA1F2?style=flat-square&logo=x)](https://twitter.com/fabioluciano)
-[![Website](https://img.shields.io/badge/Website-fabioluciano.com-informational?style=flat-square&logo=internet-explorer)](https://fabioluciano.com)
+[🇧🇷 Português](README.md) | [🇺🇸 English](README.en.md)
+
+📍 Brasília, Brazil
 
 ## 👋 Sobre Mim
-Olá! Sou Fábio Luciano, um Arquiteto de Soluções e Engenheiro de Plataforma com paixão por construir sistemas escaláveis, resilientes e seguros na nuvem. Minha jornada profissional é focada em otimizar a experiência do desenvolvedor (DevEx), implementar práticas de DevOps e CI/CD moderno, e garantir a segurança através do DevSecOps.
+Olá! Sou Fábio Luciano, um Arquiteto de Soluções e Engenheiro de Plataforma apaixonado por construir sistemas robustos, escaláveis e seguros. Com uma sólida experiência em **Arquitetura Cloud & FinOps**, **DevOps & CI/CD Moderno** e **Engenharia de Plataforma (IDP)**, dedico-me a otimizar a infraestrutura e os processos de desenvolvimento.
 
-Com uma sólida expertise em Arquitetura Cloud & FinOps, sou especialista em projetar e gerenciar infraestruturas que não apenas atendem às demandas técnicas, mas também otimizam custos. Sou um entusiasta de Kubernetes & Containers, utilizando-os para orquestrar aplicações de forma eficiente. Além disso, a Engenharia de Plataforma (IDP) e a Engenharia de Software são pilares do meu trabalho, buscando sempre a excelência e a automação. Minha curiosidade me leva a explorar constantemente novas tecnologias e a aprofundar conhecimentos em Observabilidade & SRE para garantir a saúde e performance dos sistemas.
+Minha jornada profissional é marcada pela busca contínua por inovação e eficiência, sempre com foco em aprimorar a **Developer Experience (DevEx)**. Possuo profundo conhecimento em **Kubernetes & Containers**, **Engenharia de Software** e **DevSecOps & Segurança**, garantindo que as soluções não apenas funcionem bem, mas sejam resilientes e protegidas. A **Observabilidade & SRE** são pilares fundamentais da minha abordagem, assegurando a saúde e a performance contínua dos ambientes.
 
-Sou um defensor do open source, contribuindo ativamente e compartilhando conhecimento através de projetos como o popular `tmux-powerkit` e o guia `kubestronaut`. Estou sempre em busca de novos desafios e oportunidades para aplicar e expandir minhas habilidades, especialmente nas áreas emergentes de Inteligência Artificial e automação.
+Acredito que a combinação de tecnologia de ponta e processos bem definidos é a chave para o sucesso em ambientes complexos. Sou um entusiasta do ecossistema Cloud-Native e estou sempre explorando novas formas de capacitar equipes e acelerar a entrega de valor através de plataformas e automação.
 
 ## 🎯 Foco Atual & Interesses
-Minha atuação e aprendizado estão atualmente concentrados nas seguintes áreas:
+Atualmente, meus principais focos e áreas de interesse incluem:
 
-*   ☁️ **Arquitetura Cloud & FinOps**: Projetando infraestruturas robustas, escaláveis e otimizadas para custos em ambientes de nuvem.
-*   👨‍💻 **Developer Experience (DevEx)**: Criando ferramentas e processos que tornam a vida dos desenvolvedores mais produtiva e agradável.
-*   🔄 **DevOps & CI/CD Moderno**: Implementando pipelines de integração e entrega contínuas automatizadas e eficientes.
-*   🔐 **DevSecOps & Segurança**: Integrando práticas de segurança em todas as etapas do ciclo de desenvolvimento de software.
-*   🏗️ **Engenharia de Plataforma (IDP)**: Desenvolvendo plataformas internas que capacitam equipes a entregar valor mais rapidamente.
-*   ⚙️ **Engenharia de Software**: Aplicando princípios de design e codificação para construir software de alta qualidade e manutenível.
-*   ☸️ **Kubernetes & Containers**: Orquestrando aplicações em larga escala e explorando as capacidades avançadas do ecossistema Kubernetes.
-*   📊 **Observabilidade & SRE**: Construindo sistemas para monitoramento proativo, solução de problemas e garantia da confiabilidade de serviços.
+*   ☁️ **Arquitetura Cloud & FinOps**: Desenvolvendo estratégias para otimizar custos, governança e performance em ambientes de nuvem, garantindo eficiência e escalabilidade.
+*   👨‍💻 **Developer Experience (DevEx)**: Melhorando a produtividade e a satisfação dos desenvolvedores através de ferramentas, automação e fluxos de trabalho intuitivos.
+*   🔄 **DevOps & CI/CD Moderno**: Implementando práticas avançadas de integração contínua e entrega contínua para acelerar o ciclo de vida do software com alta qualidade.
+*   🔐 **DevSecOps & Segurança**: Integrando segurança em todas as etapas do desenvolvimento e operação, construindo sistemas resilientes e conformes.
+*   🏗️ **Engenharia de Plataforma (IDP)**: Projetando e construindo plataformas internas para desenvolvedores, que abstraem a complexidade da infraestrutura e promovem a autoatendimento.
+*   ⚙️ **Engenharia de Software**: Aplicando princípios de design e arquitetura para desenvolver software de alta qualidade, escalável e de fácil manutenção.
+*   ☸️ **Kubernetes & Containers**: Dominando a orquestração de containers e o ecossistema Kubernetes para deploy, gerenciamento e escalabilidade de aplicações.
+*   📊 **Observabilidade & SRE**: Construindo sistemas de monitoramento robustos e implementando práticas de Site Reliability Engineering para garantir a disponibilidade e performance de serviços críticos.
 
 ## 🚀 Projetos em Desenvolvimento
-Mesmo com uma atividade de commits mais leve em meus repositórios públicos recentes, continuo mantendo e evoluindo projetos que refletem minhas paixões e expertise:
+Meus projetos pessoais e contribuições refletem meu interesse em ferramentas de produtividade e infraestrutura Cloud-Native:
 
-*   **[fabioluciano/tmux-powerkit](https://github.com/fabioluciano/tmux-powerkit)**: Um framework abrangente para barra de status do tmux. Este projeto em Shell, com mais de 500 estrelas, demonstra minha capacidade de criar ferramentas de produtividade para desenvolvedores e contribuir para a comunidade open source.
-*   **[fabioluciano/kubestronaut](https://github.com/fabioluciano/kubestronaut)**: Um guia completo para dominar Kubernetes e conquistar certificações como KCNA e CKA. Escrito em TypeScript, reflete meu compromisso em compartilhar conhecimento e ajudar outros a aprofundarem suas habilidades em orquestração de contêineres.
-*   **[fabioluciano/dot](https://github.com/fabioluciano/dot)**: Meus dotfiles em Lua, um reflexo do meu interesse em personalização e otimização do ambiente de desenvolvimento.
+*   **[tmux-powerkit](https://github.com/fabioluciano/tmux-powerkit)**: Um framework abrangente para a barra de status do tmux, focado em produtividade e personalização do ambiente de desenvolvimento.
+*   **[kubestronaut](https://github.com/fabioluciano/kubestronaut)**: Um guia completo e recursos para dominar Kubernetes e se preparar para certificações como KCNA e CKA, demonstrando meu compromisso com a educação e o compartilhamento de conhecimento.
+*   **[dot](https://github.com/fabioluciano/dot)**: Meus dotfiles pessoais, com configurações otimizadas em Lua, que exemplificam a busca por um ambiente de desenvolvimento eficiente e personalizado.
 
 ## 🌱 Aprendendo Agora
-Minha curiosidade me impulsiona a explorar constantemente novas fronteiras tecnológicas, com um foco especial nas tendências emergentes:
+Estou constantemente explorando novas tecnologias e aprofundando meu conhecimento nas seguintes áreas:
 
-*   **Agentes de IA & Otimização de LLMs**: Aprofundando-me em como agentes de inteligência artificial podem otimizar fluxos de trabalho de desenvolvimento, com exploração de ferramentas como Claude e Rust para redução de consumo de tokens.
-*   **Ferramentas Avançadas de Kubernetes & GitOps**: Investigando soluções como `sops-operator` para gerenciamento de segredos e `skyhook-io/radar` como uma UI de Kubernetes para visualização e monitoramento.
-*   **Engenharia de Dados & Plataformas de Dev Data**: Explorando `Apache DevLake` para análise de dados de desenvolvimento e `rocky` (Rust) para transformações SQL com foco em linhagem de dados.
-*   **Segurança Zero-Trust em Cloud-Native**: Estudando `kloak` para segurança de agentes de IA em ambientes Kubernetes, com foco em eBPF.
+*   **Agentes de IA e Produtividade para Desenvolvedores**: Investigando como agentes de inteligência artificial (como Claude Code) podem otimizar o fluxo de trabalho de desenvolvimento, reduzir o consumo de tokens LLM e automatizar tarefas complexas.
+*   **Segurança Cloud-Native Avançada**: Explorando soluções de segurança para Kubernetes, incluindo o uso de eBPF e gerenciamento de segredos com ferramentas como SOPS Operator e Kloak.
+*   **Engenharia de Dados e Plataformas de Dados para Desenvolvedores**: Aprofundando em motores de transformação SQL em Rust (ex: Rocky) e plataformas de dados para desenvolvedores como Apache DevLake, focando em lineage, qualidade e contratos de dados.
+*   **Interfaces e Ferramentas de Observabilidade para Kubernetes**: Avaliando novas interfaces de usuário e ferramentas de monitoramento para melhorar a visibilidade e o gerenciamento de clusters Kubernetes.
 
 ## 💼 Experiência & Stack Tecnológica
-Dados do currículo não disponíveis. Minha stack tecnológica é moldada pela experiência em projetos de nuvem, DevOps e engenharia de plataforma, com um forte interesse em inovação.
+Minha experiência abrange uma vasta gama de tecnologias e ferramentas, com foco em soluções Cloud-Native e automação.
 
 #### Linguagens de Programação
-Go, Rust, TypeScript, Python, Shell, Lua, JavaScript
+`Go` `Rust` `TypeScript` `Python` `Shell` `Lua` `C` `C++` `JavaScript`
 
-#### Cloud & Infraestrutura
-Kubernetes, Docker, AWS, Linux, Contêineres
+#### Cloud & FinOps
+`Kubernetes` `Docker` `AWS` `FinOps`
 
 #### DevOps & Ferramentas
-Git, CI/CD, Terminal, tmux, ArgoCD, Flux
+`CI/CD` `Git` `tmux` `Linux` `Terminal` `macOS`
 
-#### Segurança
-DevSecOps, SOPS
+#### Segurança & Compliance
+`DevSecOps` `Secrets Management` `eBPF`
+
+#### Engenharia de Plataforma
+`IDP` `Cloud-Native`
 
 #### Observabilidade & SRE
-SRE, Monitoramento, Resolução de Problemas
+`Observabilidade` `SRE`
 
-#### Inteligência Artificial
-AI Agents, LLM, Claude
-
-#### Banco de Dados & Dados
-SQL, Engenharia de Dados
+#### Bancos de Dados
+`Database`
 
 ## 🤝 Contribuições & Colaboração
-Acredito que a colaboração é a chave para o avanço tecnológico. Nos últimos 30 dias, estive ativo criando 7 Pull Requests e revisando 1, além de ter comentado em 3 issues em diversos repositórios. Minha contribuição se estende também à manutenção e evolução de projetos open source como o `tmux-powerkit`.
+Acredito no poder da comunidade e do código aberto. Embora meus commits recentes em projetos públicos sejam leves, estou ativamente envolvido na revisão de código, abertura e comentário de Pull Requests e Issues em diversos repositórios. Nos últimos 30 dias, criei 8 Pull Requests e revisei 1, além de comentar em 4 Issues, contribuindo para o ecossistema Cloud-Native e de ferramentas de desenvolvimento.
 
-Estou sempre aberto a novas ideias e colaborações em projetos que se alinhem aos meus interesses. Sinta-se à vontade para abrir uma issue, enviar um Pull Request ou iniciar uma discussão!
+Estou sempre aberto a novas oportunidades de colaboração em projetos de código aberto, especialmente nas áreas de Cloud-Native, DevOps, Engenharia de Plataforma e ferramentas de produtividade para desenvolvedores.
 
 ## 📝 Últimos Posts do Blog
-No momento, não há posts recentes do blog listados publicamente. Mantenha-se atualizado para futuros artigos!
+Acompanhe meus insights e artigos técnicos em [fabioluciano.com](https://fabioluciano.com), onde compartilho conhecimentos sobre arquitetura, DevOps e as últimas tendências em tecnologia.
 
 ## 📫 Como me Encontrar
+Sinta-se à vontade para entrar em contato:
+
 *   **GitHub**: [fabioluciano](https://github.com/fabioluciano)
 *   **Email**: [me@fabioluciano.com](mailto:me@fabioluciano.com)
-*   **LinkedIn**: [fabioluciano](https://www.linkedin.com/in/fabioluciano)
-*   **Twitter/X**: [fabioluciano](https://twitter.com/fabioluciano)
-*   **Website/Blog**: [https://fabioluciano.com](https://fabioluciano.com)
+*   **LinkedIn**: [Fábio Luciano](https://www.linkedin.com/in/fabioluciano)
+*   **Twitter/X**: [@fabioluciano](https://twitter.com/fabioluciano)
+*   **Website/Blog**: [fabioluciano.com](https://fabioluciano.com)

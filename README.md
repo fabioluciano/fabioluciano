@@ -2,13 +2,13 @@
 
 ## About Me
 
-I'm a developer with 3309 starred repositories and 44 personal projects.
+I'm a developer with 3314 starred repositories and 44 personal projects.
 
 ## Recent Activity
 
 - 0 commits in the last 30 days
-- 13 pull requests created
-- 0 pull requests reviewed
+- 12 pull requests created
+- 1 pull requests reviewed
 
 ## Technologies
 
